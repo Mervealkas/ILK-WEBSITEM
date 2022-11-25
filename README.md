@@ -1,10 +1,3 @@
-İLK WEBSİTEM 
-
-
-
-
-
-
 <!doctype HTML>
 
 <html>
